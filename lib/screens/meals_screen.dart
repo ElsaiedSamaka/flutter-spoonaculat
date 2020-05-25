@@ -209,4 +209,3 @@ _mealType(int index) {
   }
  }
 
-}
